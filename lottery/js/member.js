@@ -227,12 +227,9 @@ var member = [
     "phone": "No.59",
     "name": "廖云坤"
   },
+
   {
     "phone": "No.60",
-    "name": "林涵越"
-  },
-  {
-    "phone": "No.61",
     "name": "张宇军"
   },
   // {
